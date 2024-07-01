@@ -1,6 +1,6 @@
 # HackerRank Solutions
 
-Welcome to my repository of solutions for various HackerRank challenges. This repository contains my submissions for problems in different domains such as algorithms, data structures, mathematics, and more.
+Welcome to my repository of solutions for various HackerRank challenges. This repository contains my submissions for problems in different domains such Python, SQl and more.
 
 ## About
 
